@@ -17,5 +17,6 @@ Some random facts:
 - The cuddle lion I share with my girlfriend is called “Lola”.
 - Github should drop their contract with ICE.
 
-Here's a gif of Dougie Jones:<br>
+Here's a gif of Dougie Jones:
+
 ![Dougie Jones](https://media.giphy.com/media/3ohhwr556DweYCCUAU/giphy.gif)

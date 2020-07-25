@@ -1,7 +1,6 @@
 I'm Thomas, I'm a developer and like to make pretty things on the web.
 
-Currently I'm working as a front-end developer at [Mr. Henry 🏀](https://www.mrhenry.be/).
-
+Currently I'm working as a front-end developer at [Mr. Henry 🏀](https://www.mrhenry.be/).<br>
 I'm available for side projects, you can contact me on my [email 📬](mailto:info@thomasverleye.be).
 
 My main interests at the moment are creating websites which are:
@@ -18,6 +17,5 @@ Some random facts:
 - The cuddle lion I share with my girlfriend is called “Lola”.
 - Github should drop their contract with ICE.
 
-Here's a gif of Dougie Jones:
-
+Here's a gif of Dougie Jones:<br>
 ![Dougie Jones](https://media.giphy.com/media/3ohhwr556DweYCCUAU/giphy.gif)

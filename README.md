@@ -11,8 +11,8 @@ My main interests at the moment are creating websites which are:
 - Keeping things thight with the web standards 🔜
 
 Some random facts:
-- I have a very wide view on the music scene, follow me on [Spotify](https://open.spotify.com/user/116726019?si=u73R7xvsTLWo0lmlH2suBw) and listen to some of my playlists (and please share me yours).
-- I've got alot of tattoos.
+- I have a very wide view on the music scene, follow me on [Spotify](https://open.spotify.com/user/116726019?si=u73R7xvsTLWo0lmlH2suBw) and listen to some of my playlists.
+- I've got a lot of tattoos.
 - I can get really obsessed with `<picture>` tags and `srcset`'s (I really do).
 - The cuddle lion I share with my girlfriend is called “Lola”.
 - Github should drop their contract with ICE.

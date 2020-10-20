@@ -2,6 +2,7 @@ I'm Thomas, I'm a developer and like to make pretty things on the web.
 
 Currently I'm working as a front-end developer at [Mr. Henry 🏀](https://www.mrhenry.be/).<br>
 I'm available for side projects, you can contact me on my [email 📬](mailto:info@thomasverleye.be).
+Follow me on [dev.to ⌨️](https://dev.to/thomasverleye)
 
 My main interests at the moment are creating websites which are:
 - Accessible for everyone ✌️

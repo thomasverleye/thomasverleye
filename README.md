@@ -7,9 +7,7 @@ Follow me on [dev.to ⌨️](https://dev.to/thomasverleye).
 My main interests at the moment are creating websites which are:
 - Accessible for everyone ✌️
 - Neatly organised and expandable 🤓
-- Not depending on any fancy new framework 💊
 - Progressive enhancements makes the web a better place 🌈
-- Keeping things thight with the web standards 🔜
 
 Some random facts:
 - I have a very wide view on the music scene, follow me on [Spotify](https://open.spotify.com/user/116726019?si=u73R7xvsTLWo0lmlH2suBw) and listen to some of my playlists.

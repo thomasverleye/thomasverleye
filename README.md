@@ -1,6 +1,6 @@
 I'm Thomas, I'm a developer and like to make pretty things on the web.
 
-Currently I'm working as a front-end developer at [Craftzing ⚡️](https://craftzing.com/).<br>
+Currently I'm working as a lead front-end developer at [Craftzing ⚡️](https://craftzing.com/).<br>
 I'm available for side projects, you can contact me on my [email 📬](mailto:thomas@gimmechaos.dev).<br>
 Follow me on [dev.to ⌨️](https://dev.to/thomasverleye) and read my toots on <a rel="me" href="https://mastodon.social/@thomasverleye">Mastodon</a>.
 
